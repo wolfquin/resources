@@ -47,3 +47,25 @@ general:
       
       Java, C++, and more:
                   https://gradle.org/
+
+
+Linux:
+      
+      https://wiki.voidlinux.org/Installation:
+      void linux (recommended by me).
+      
+      
+      https://wiki.archlinux.org/index.php/Installation_guide#Example_layoutsuse
+      this partition table example for reference.
+      
+      IF YOU DONT KNOW HOW TO INSTALL LINUX/A BEGINNER, try this instead:
+      
+      https://download.fedoraproject.org/pub/fedora/linux/releases/29/Workstation/x86_64/iso/Fedora-Workstation-netinst-x86_64-29-1.2.iso:
+      fedora linux netboot, better than regular because of customization. Don't install too much, i'd recommend xfce.
+     
+     https://getfedora.org/en/workstation/:
+     regular fedora distro, weights 1.8.
+     
+     https://rpmfusion.org/Configuration/
+     rpm fusion for non-open source packages for fedora distros
+      
