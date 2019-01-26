@@ -14,9 +14,7 @@ JavaScript:
                 https://www.google.com/chrome/dev/:
                 Google's chrome web edition, for developers.
 
-                https://fonts.google.com/
-                pick a font for your UI!
-                
+              
          design:
          
                 https://material.io:
@@ -25,6 +23,9 @@ JavaScript:
                 https://material.io/tools/color/#!/?view.left=0&view.right=0&primary.color=00C853
                 a colour pallete, to choose the colour for your UI.
  
+                https://fonts.google.com/
+                pick a font for your UI!
+                
 general:
 
                 https://www.tutorialspoint.com/:
