@@ -65,7 +65,7 @@ Linux:
       fedora linux netboot, better than regular because of customization. Don't install too much, i'd recommend xfce.
      
      https://getfedora.org/en/workstation/:
-     regular fedora distro, weights 1.8.
+     regular fedora distro, weights 1.8 GB.
      
      https://rpmfusion.org/Configuration/
      rpm fusion for non-open source packages for fedora distros
